@@ -1,0 +1,29 @@
+Employee;;;Number;Description;E-Mail-Address;send E-Mails;Password;Password Confirm;Node;PBX-Name;manipulate #;Call Groups;Config Template;MAC-Address
+longName;displayName;name;number;description;e-mail;sendE-Mail;password;passwordConfirm;node;pbx;sendNumber;groups;configTemplate;hardwareID
+Test User1;Test User1;Test User1;180;test;testuser1@mail.com;;180;180;root;PBX_Name;;Technik-MSR;_Temp_Standard;
+Test User2;Test User2;Test User2;181;test user 2;testuser2@mail.com;;181;181;root;PBX_Name;;Vertrieb,FICO;_Temp_Standard;0090332fe666
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
