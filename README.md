@@ -1,7 +1,9 @@
 # Innovaphone CSV import
 
+CSV example is in the Repository
 ![CSV example is in the Repository](https://i.imgur.com/7YLxafo.png)
 
+Example output.
 ![Example](https://i.imgur.com/c4hIlLp.png)
 
 ### Description
@@ -19,6 +21,7 @@ It works by utilizing the Innovaphone "mod cmd", the same functions the Web-Inte
 ### Features
 - easily add subscribers via http requests automatically
 - configure the subscriber with the following parameters: E-Mail, send E-Mail, send number, groups and the MAC-Address (for provisioning) as well as the required fields (longName, displayName, H323
+- detects duplicate CN or h323 (Number) and gives you feedback about successfull runs or problems (1:1 echo of the Error Innovaphone gives you)
 
 
 ### Requirements
