@@ -1,5 +1,9 @@
 # Innovaphone CSV import
 
+![CSV example is in the Repository](https://i.imgur.com/7YLxafo.png)
+
+![Example](https://i.imgur.com/c4hIlLp.png)
+
 ### Description
 This is a Python script to import a CSV-Phonebook into your Innovaphone PBX.
 It's written for techs that have to set up multiple PBXs and want to focus on the important tasks instead of
