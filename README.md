@@ -15,7 +15,7 @@ It works by utilizing the Innovaphone "mod cmd", the same functions the Web-Inte
 
 ### Goals
 - speed up the process of adding dozens or hundreds of users to your PBX
-- pass all the non-unique parameters to the users
+- pass all the important parameters to the users
 - let the client fill out the csv with their data and plug the list into the script
 
 ### Features
